@@ -1,7 +1,7 @@
 {
-  "name": "bythealphabet-mern-stack-template",
+  "name": "social-island",
   "version": "1.0.0",
-  "description": "A template for building MERN stack web applications.",
+  "description": "A Social Media MERN Stack application",
   "main": "server/server.js",
   "scripts": {
     "clean": "rm -r dist ",
